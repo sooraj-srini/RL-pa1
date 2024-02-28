@@ -8,7 +8,7 @@ CS6700___Reinforcement_Learning_PA1_Jan_May_2024_.pdf: contains the program desc
 GridWorld_PA1.ipynb: has the necessary code to run the experiments. 
 GridWorld_PA1.pdf: PDF file of the ipynb file
 GridWorld_PA1.ipynb: HTML file of the ipynb file (for a better viewing experience)
-RL_Programming_Assignment_1.pdf: Our report on the experiments performed
+Report_Programming_Assignment_1.pdf: Our report on the experiments performed
 
 # Replication
 
